@@ -1,0 +1,54 @@
+#nav{ 
+    
+    list-style: none;
+    margin-left:20em;
+    
+}
+ a{ 
+    text-decoration: none;  
+}
+li{
+    display: inline;
+    margin-left: 5em;
+    border: 1px solid rosybrown;
+    padding: 3px 3px 3px 3px;
+    background: whitesmoke;
+ }
+ #h3{ 
+     text-align: center;
+     border: 1px solid gainsboro;
+     padding-top: 1em;
+     padding-bottom: 1em;
+ }
+ #foot{
+    position: absolute;
+    top: 46em; left: 68em;
+    text-align: center; 
+  }
+  footer{
+     margin-left:60em; 
+     position: absolute;
+     top:45em;
+     padding-bottom: 6em;
+   }
+   section{
+       position: absolute;
+       top: 10em;
+    }
+    #new{
+        position: absolute;
+        top: 30em;
+     }
+     #last{ 
+        position: absolute;
+        top: 30em; left: 40em;
+     }
+     #feb{ 
+        position: absolute;
+        top: 35em;
+        
+     }
+     body{ 
+         background: pink;
+     }
+
